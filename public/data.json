@@ -1,0 +1,135 @@
+[
+    {
+        "toy_picture": "https://ibb.co/C7Kg6d5",
+        "toy_name": "Super Robot",
+        "price": 29.99,
+        "rating": 4.5,
+        "name": "Toy World",
+        "available_quantity": 10,
+        "email": "toyworld@example.com",
+        "sub_category": "regular car",
+        "detail_description": "The Super Robot action figure is equipped with lights, sounds, and movable joints. It comes with various accessories and is perfect for imaginative play."
+      },
+      {
+        "toy_picture": "https://ibb.co/HF5nLSH",
+        "toy_name": "Princess Castle",
+        "price": 49.99,
+        "rating": 4.2,
+        "name": "Playtime Emporium",
+        "available_quantity": 5,
+        "email": "playtimeemporium@example.com",
+        "sub_category": "police car",
+        "detail_description": "The Princess Castle playset includes a beautifully designed castle, princess dolls, furniture, and accessories. It provides hours of imaginative play for kids."
+      },
+      {
+        "toy_picture": "https://ibb.co/gw67Sf4",
+        "toy_name": "Remote Control Car",
+        "price": 39.99,
+        "rating": 4.7,
+        "name": "RC Fun",
+        "available_quantity": 8,
+        "email": "rcfun@example.com",
+        "sub_category": "mini truck",
+        "detail_description": "This high-speed remote control car can perform stunts, has responsive controls, and a durable design. It's a perfect gift for kids who love racing and adventures."
+      },
+      {
+        "toy_picture": "https://ibb.co/6RmMrW1",
+        "toy_name": "Puzzle Cube",
+        "price": 9.99,
+        "rating": 4.0,
+        "name": "Brain Teasers Inc.",
+        "available_quantity": 15,
+        "email": "brainteasersinc@example.com",
+        "sub_category": "police car",
+        "detail_description": "The Puzzle Cube challenges your problem-solving skills. It's a classic toy that stimulates the mind and offers hours of fun. Suitable for all ages."
+      },
+      {
+        "toy_picture": "https://ibb.co/mRS881T",
+        "toy_name": "Art Set",
+        "price": 19.99,
+        "rating": 4.6,
+        "name": "Creative Kids",
+        "available_quantity": 12,
+        "email": "creativekids@example.com",
+        "sub_category": "regular car",
+        "detail_description": "The Art Set contains a variety of art supplies including colored pencils, paints, brushes, and sketching pads. It's perfect for young artists and encourages creativity."
+      },
+      {
+        "toy_picture": "https://ibb.co/QdRZ1Lj",
+        "toy_name": "Dinosaur Playset",
+        "price": 24.99,
+        "rating": 4.3,
+        "name": "Prehistoric World",
+        "available_quantity": 6,
+        "email": "prehistoricworld@example.com",
+        "sub_category": "regular car",
+        "detail_description": "The Dinosaur Playset includes various dinosaur figures, trees, and rocks. It provides a realistic prehistoric environment for kids to enjoy imaginative play."
+      },
+      {
+        "toy_picture": "https://ibb.co/XWjNZjQ",
+        "toy_name": "Building Blocks",
+        "price": 14.99,
+        "rating": 4.8,
+        "name": "Block Masters",
+        "available_quantity": 20,
+        "email": "blockmasters@example.com",
+        "sub_category": "mini truck",
+        "detail_description": "The Building Blocks set features colorful interlocking blocks that allow kids to create endless structures. It enhances motor skills and fosters creativity."
+      },
+      {
+        "toy_picture": "https://ibb.co/KxcL9b0",
+        "toy_name": "Tea Party Set",
+        "price": 16.99,
+        "rating": 4.4,
+        "name": "Tiny Tots",
+        "available_quantity": 9,
+        "email": "tinytots@example.com",
+        "sub_category": "police car",
+        "detail_description": "The Tea Party Set includes a teapot, cups, saucers, and play food. It allows children to host their own tea parties and encourages social interaction."
+      },
+      {
+        "toy_picture": "https://ibb.co/PrJvWpt",
+        "toy_name": "Musical Keyboard",
+        "price": 32.99,
+        "rating": 4.7,
+        "name": "Melody Makers",
+        "available_quantity": 7,
+        "email": "melodymakers@example.com",
+        "sub_category": "mini truck",
+        "detail_description": "The Musical Keyboard features multiple instrument sounds, rhythms, and demo songs. It introduces kids to the world of music and helps develop musical skills."
+      },
+      {
+        "toy_picture": "https://ibb.co/nDggGzb",
+        "toy_name": "Sports Ball Set",
+        "price": 21.99,
+        "rating": 4.5,
+        "name": "Active Kids",
+        "available_quantity": 11,
+        "email": "activekids@example.com",
+        "sub_category": "mini truck",
+        "detail_description": "The Sports Ball Set includes a soccer ball, basketball, and football. It promotes active play, coordination, and outdoor fun for kids of all ages."
+      },
+      {
+        "toy_picture": "https://ibb.co/nMzw79s",
+        "toy_name": "Science Kit",
+        "price": 27.99,
+        "rating": 4.6,
+        "name": "Science Explorers",
+        "available_quantity": 8,
+        "email": "scienceexplorers@example.com",
+        "sub_category": "regular car",
+        "detail_description": "The Science Kit contains various experiments and materials to explore the wonders of science. It encourages curiosity and learning in a fun way."
+      },
+      {
+        "toy_picture": "https://ibb.co/PYsYWzM",
+        "toy_name": "Magic Set",
+        "price": 18.99,
+        "rating": 4.3,
+        "name": "Mystic Wonders",
+        "available_quantity": 6,
+        "email": "mysticwonders@example.com",
+        "sub_category": "mini truck",
+        "detail_description": "The Magic Set includes a variety of tricks, props, and a guidebook to perform amazing magic tricks. It sparks imagination and provides endless entertainment."
+      }
+      
+]
